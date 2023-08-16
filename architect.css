@@ -145,6 +145,10 @@ main {
   padding-left: 20px;
 }
 
+.featers .section-title:hover {
+  border-left: 5px solid #88d1ff; 
+}
+
 .featers-content .card {
   padding: 30px;
   margin-bottom: 20px;
